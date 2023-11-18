@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Eshita Khanna</h1>
-- 🌱 I’m currently learning **Machine Learning and DSA in JAVA**
+- 🌱 I’m currently learning Machine Learning and Data Structures and Algorithms in JAVA.
 
 
 - 📫 How to reach me **eshita.khanna97@gmail.com**
