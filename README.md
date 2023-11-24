@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I am Eshita Khanna</h1>
+<h1>Hi, I am Eshita Khanna</h1>
 - 🌱 I’m currently learning Machine Learning and Data Structures and Algorithms in JAVA.
 
 
 - 📫 How to reach me **eshita.khanna97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18KgHkHUKqkAAsg2vS3GBpoSkiujr0mQt/view?usp=sharing](https://drive.google.com/file/d/18KgHkHUKqkAAsg2vS3GBpoSkiujr0mQt/view?usp=sharing)
+- 📄 Find my resume here [https://drive.google.com/file/d/18KgHkHUKqkAAsg2vS3GBpoSkiujr0mQt/view?usp=sharing](https://drive.google.com/file/d/18KgHkHUKqkAAsg2vS3GBpoSkiujr0mQt/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
