@@ -14,7 +14,9 @@ I have gained experience in Java and Python programming languages. I am actively
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Android](https://img.shields.io/badge/android-%23A4C639.svg?style=for-the-badge&logo=android&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%232972f0.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
 
 
 
